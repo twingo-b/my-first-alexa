@@ -1,0 +1,23 @@
+{
+  "name": "my-first-alexa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/twingo-b/my-first-alexa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twingo-b/my-first-alexa/issues"
+  },
+  "homepage": "https://github.com/twingo-b/my-first-alexa#readme"
+}
