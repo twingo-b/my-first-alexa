@@ -1,4 +1,5 @@
 "use strict";
+const AWSXRay = require('aws-xray-sdk');
 const Alexa = require('alexa-sdk');
 const fortunes = [{
         'score': 'good',
